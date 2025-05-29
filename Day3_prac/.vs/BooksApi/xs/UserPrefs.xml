@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BooksApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BooksApi.Services/Services/BookService.cs">
+    <Files>
+      <File FileName="BooksApi/Controllers/BookController.cs" Line="34" Column="27" />
+      <File FileName="BooksApi.Data/Models/Book.cs" Line="1" Column="1" />
+      <File FileName="BooksApi.Services/Services/BookService.cs" Line="24" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BooksApi" expanded="True">
+            <Node name="BooksApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="BooksApi.Data" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="BooksApi.Services" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="BookService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
